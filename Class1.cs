@@ -4,7 +4,7 @@ public class Class1
 {
 
 
-	public Class 12345
+	이부분 삭제합니다. //최신파일입니다.
 
 	public Class 54321
 
