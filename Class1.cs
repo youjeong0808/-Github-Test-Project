@@ -2,7 +2,7 @@
 
 public class Class1
 {
-	public Class 
+	public Class 12345
 	{
 	}
 }
