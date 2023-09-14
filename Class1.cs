@@ -4,7 +4,7 @@ public class Class1
 {
 
 
-	이부분 삭제합니다. //최신파일입니다.
+	깃test에서 들고온 .test파일 최종수정본입니다
 
 	public Class 54321
 
