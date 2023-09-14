@@ -2,7 +2,7 @@
 
 public class Class1
 {
-	public Class yuyu
+	public Class tou
 	{
 	}
 }
