@@ -1,14 +1,11 @@
 ﻿using System;
 
 public class Class1
-{9시 37분에 test에서 수정
- 9시 53분에 test에서 수정
- 10시 1분에 test에서 수정
+{
 	public Class 
 
 	{
+		//삭제완료
 	}
 
-test용입니다
-test에서 마지막으로 수정
 }
