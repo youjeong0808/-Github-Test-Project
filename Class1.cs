@@ -1,14 +1,7 @@
 ﻿using System;
 
 public class Class1
-{
-
-
-	깃test에서 들고온 .test파일 최종수정본입니다
-
-	public Class 54321
-
-
+{9시 37분에 test에서 수정
 	public Class 
 
 	{
