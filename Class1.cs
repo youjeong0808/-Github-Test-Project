@@ -6,6 +6,7 @@ public class Class1
 
 	{
 	 삭제 후 다시 추가중입니다.
+		3차 추가
 	}
 
 }
