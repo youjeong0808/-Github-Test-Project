@@ -2,6 +2,7 @@
 
 public class Class1
 {9시 37분에 test에서 수정
+ 9시 53분에 test에서 수정
 	public Class 
 
 	{
